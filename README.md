@@ -17,3 +17,6 @@ Para compilar y ejecutar el codigo se deben seguir las siguientes instrucciones:
 3. java MainOpcion1 config.txt
 
 el archivo de salida se puede ver en el documento anexo del caso2
+
+
+Trabajo realizado por Andres Felipe Romero y Juan José Penha
