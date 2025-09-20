@@ -10,7 +10,7 @@ public class Config {
         tams = new ArrayList<>();
         loadConfig(filePath);
     }
-
+//carga
     private void loadConfig(String filePath) throws IOException {
         Properties props = new Properties();
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
@@ -46,3 +46,5 @@ public class Config {
         return tams;
     }
 }
+
+
